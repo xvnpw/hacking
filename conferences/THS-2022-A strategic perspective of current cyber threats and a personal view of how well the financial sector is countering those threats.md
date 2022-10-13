@@ -29,4 +29,4 @@
   * IAM - multi factor
   * Internal segregation of network
   * Security culture
-  * >= 10% of IT budget -> for security
+  * at least 10% of IT budget -> for security
