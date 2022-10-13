@@ -2,16 +2,16 @@
 
 ## How world look like right now
 
-* Where we are now in cyber security
+* Where we are now in cyber security war
 * Threats are increasing 
   * Govs are most sophisticated
   * Govs has integrated weapons into army
   * Russia is most active in attacking 
   * North Korea is focused on stilling money
   * Theft of IP by China hackers
-* Finance
+* Finance sector
   * Organised criminal groups 
-  * 10M attacks reports every month by banks
+  * 10M attacks reported every month by banks
   * 70% are operating from small number of contries, e.g. Russia, North Korea
 * Dark web
   * Help desk for attackers
@@ -28,3 +28,5 @@
   * Supply chain
   * IAM - multi factor
   * Internal segregation of network
+  * Security culture
+  * >= 10% of IT budget -> for security
