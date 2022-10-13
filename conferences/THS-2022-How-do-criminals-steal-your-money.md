@@ -1,4 +1,4 @@
-# How do criminals steal your money? A few words about online credit card skimmers. 
+# How do criminals steal your money? A few words about online credit card skimmers
 
 * Credit cards transaction in internet are dangeraus
   * Skimmer - phisical 
